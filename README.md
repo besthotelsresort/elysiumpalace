@@ -1,0 +1,2 @@
+# elysiumpalace
+Static site: elysiumpalace
